@@ -1,5 +1,10 @@
 # Student Management System GUI Application
 This Java program implements a graphical user interface (GUI) application for managing student information and generating fee receipts.
+Below are the output images generated from this project:
+
+![Screenshot 2024-04-25 221958](https://github.com/SofiaAkhtar/Fee-Receipt-Generator/assets/122672892/ba6c2eb5-89e9-4ef2-acc6-7dde4dc91671)
+![Screenshot 2024-04-25 221926](https://github.com/SofiaAkhtar/Fee-Receipt-Generator/assets/122672892/db24f16a-6ad0-4eb3-9f31-e3ee60276ed4)
+![Screenshot 2024-04-25 221806](https://github.com/SofiaAkhtar/Fee-Receipt-Generator/assets/122672892/5abb8d2d-a68f-485a-add7-b355bd90a669)
 
 ## Description
 The application allows users to input various details about students such as name, father's name, email, contact number, address, gender, nationality, academic information, and preferences for group and hostel accommodation. It also provides options for selecting academic courses and hostel facilities.
@@ -33,3 +38,4 @@ Users can generate fee receipts based on the entered information, which includes
 
 ## Author
 Sofia Akhtar
+
