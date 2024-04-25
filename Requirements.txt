@@ -1,0 +1,17 @@
+# Java version
+java>=8.0
+
+# Java Swing library
+javax.swing
+
+# AWT (Abstract Window Toolkit) library
+java.awt
+
+# Java IO library
+java.io
+
+# Java AWT Event Handling library
+java.awt.event
+
+# Java Print library
+java.awt.print
